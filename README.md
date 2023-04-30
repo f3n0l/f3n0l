@@ -6,8 +6,6 @@
 - i do like me some JS 
 - open for collabs
 
-#### lesser fun facts
-
 ```javascript
 const f3n0l = {
   languages: ["Javascript", "Typescript", "HTML", "CSS", "PHP", "SQL and a bit of luck"],
