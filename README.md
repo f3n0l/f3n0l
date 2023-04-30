@@ -6,10 +6,13 @@
 
 ```javascript
 const f3n0l = {
+  name: "Tolga Simsek",
+  role: "Full Stack Dev",
+  collabs: "let's go! :zap:"
   languages: ["Javascript", "Typescript", "HTML", "CSS", "PHP", "SQL and a bit of luck"],
-  i like to use: ["React", "Vue.js", "Express", "Node.js", "Jest", "SASS/SCSS", "socket.io"],
-  what i build: ["websites", "webapps", "some secret stuff"],
-  what i'd like to build soon: ["mobile apps", "music related stuff"]
+  frameworks: ["React", "Vue.js", "Express", "Node.js", "Jest", "SASS/SCSS", "socket.io"],
+  building: ["websites", "webapps", "some secret stuff"],
+  soon: ["mobile apps", "music related stuff"]
 }
 ```
 
