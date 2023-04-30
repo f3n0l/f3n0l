@@ -1,9 +1,9 @@
-#### hi! :ghost: :ghost: :ghost:
+#### hi! :ghost: :zap: :ocean:
 - first name's tolga
 - full stack dev
 
 #### funfacts
-- i do like me some JS 
+- i :heart_eyes: JS 
 - open for collabs
 
 ```javascript
