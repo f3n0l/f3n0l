@@ -1,14 +1,10 @@
-#### hi! :ghost: :zap: :ocean:
-+ first name's tolga  
-+ full stack dev  
-+ i like JS alot  
-+ open for collabs  
+++++ hi! ++++
 
 ```javascript
 const f3n0l = {
-  name: "Tolga Simsek",
+  name: Tolga Simsek ⚡️,
   role: "Full Stack Dev ☄️",
-  collabs: "let's go! ⚡️"
+  collabs: let's go! 💫,
   languages: ["Javascript", "Typescript", "HTML", "CSS", "PHP", "SQL and a bit of luck"],
   frameworks: ["React", "Vue.js", "Express", "Node.js", "Jest", "SASS/SCSS", "socket.io"],
   building: ["websites", "webapps", "some secret stuff"],
