@@ -2,11 +2,11 @@
 
 ```javascript
 const f3n0l = {
-  name: Tolga Simsek ⚡️,
-  role: "Full Stack Dev ☄️",
-  collabs: "let's go! 💫",
+  who: Tolga Simsek ⚡️,
+  what: "Full Stack Dev ☄️",
+  collabs: "yes please 💫",
   languages: [Javascript, "Typescript", "HTML", "CSS", "PHP", "SQL", and a bit of luck],
-  frameworks: [React, "Vue.js", Express, "Node.js", "Jest", SASS/SCSS, "socket.io"],
+  frameworks: [React, "Vue.js", Express, "Node.js", "Jest", "SASS/SCSS", "socket.io"],
   building: ["websites", "webapps", "some secret stuff"],
   soon: ["mobile apps", "music related stuff"]
 }
