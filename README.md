@@ -1,7 +1,7 @@
 #### hi! :ghost: :zap: :ocean:
 - first name's tolga
 - full stack dev
-- i :heart_eyes: JS 
+- i like JS alot
 - open for collabs
 
 ```javascript
