@@ -1,8 +1,8 @@
 #### hi! :ghost: :zap: :ocean:
-- first name's tolga
-- full stack dev
-- i like JS alot
-- open for collabs
+first name's tolga
+full stack dev
+i like JS alot
+open for collabs
 
 ```javascript
 const f3n0l = {
