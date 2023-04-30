@@ -1,3 +1,5 @@
+<img src="https://media.tenor.com/sv1KYfbNLwcAAAAC/anime-moon.gif">
+
 #### hi! :ghost: :zap: :ocean:
 + first name's tolga  
 + full stack dev  
