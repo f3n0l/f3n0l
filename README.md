@@ -1,8 +1,6 @@
 #### hi! :ghost: :zap: :ocean:
 - first name's tolga
 - full stack dev
-
-#### funfacts
 - i :heart_eyes: JS 
 - open for collabs
 
