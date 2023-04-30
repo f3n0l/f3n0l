@@ -10,7 +10,7 @@
 
 - open for collabs
 
-#### tech-stack
+#### lesser fun facts
 
 ```javascript
 const f3n0l = {
@@ -22,7 +22,7 @@ const f3n0l = {
 ```
 
 
-<img href="https://tenor.com/view/anime-moon-night-gif-18884405"/>
+<img src="https://tenor.com/view/anime-moon-night-gif-18884405"/>
 
 
 <a href= "https://www.linkedin.com/in/tolga-simsek-0b0a42203/">this might be my linkedin</a>
