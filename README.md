@@ -22,7 +22,7 @@ const f3n0l = {
 ```
 
 
-<img src="[https://tenor.com/view/anime-moon-night-gif-18884405](https://media.tenor.com/sv1KYfbNLwcAAAAC/anime-moon.gif)"/>
+<img src="https://media.tenor.com/sv1KYfbNLwcAAAAC/anime-moon.gif">
 
 
 <a href= "https://www.linkedin.com/in/tolga-simsek-0b0a42203/">this might be my linkedin</a>
