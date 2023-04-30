@@ -1,8 +1,8 @@
 #### hi! :ghost: :zap: :ocean:
-first name's tolga  
-full stack dev  
-i like JS alot  
-open for collabs  
++ first name's tolga  
++ full stack dev  
++ i like JS alot  
++ open for collabs  
 
 ```javascript
 const f3n0l = {
@@ -18,3 +18,4 @@ const f3n0l = {
 
 
 <a href="https://www.linkedin.com/in/tolga-simsek-0b0a42203/" target=”_blank”>this might be my linkedin</a>
+
