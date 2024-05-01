@@ -17,7 +17,7 @@
 
 ```javascript
 const f3n0l = {
-  who: Tolga Simsek ⚡️,
+  who: T ⚡️,
   what: "Full Stack Developer ☄️",
   does: [Javascript, "Typescript", "HTML", "CSS", "SQL" and 💫],
   with: [React, "Redux", Next.js, "Express", Node.js, "Vue.js", Jest, "Cypress"],
